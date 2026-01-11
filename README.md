@@ -82,11 +82,7 @@ I combine **AI-driven automation**, **modern frontend experiences**, and **robus
 
 ---
 
-## ⚡ Professional Philosophy
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
 
 ---
 
