@@ -73,15 +73,7 @@ I combine **clean frontend design**, **robust backend logic**, and **automation 
 
 ---
 
-## ✨ Professional Motto (Animated)
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
-</p>
 
 ---
 
-<!-- ===================== FOOTER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer"/>
-</p>
+
