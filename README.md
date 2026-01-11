@@ -1,6 +1,8 @@
-<!-- ===================== HERO ANIMATION ===================== -->
+<!-- ===================== INTRO / HERO ===================== -->
+<h2 align="center">Hi there 👋, I'm Abubakar Abdulrazak</h2>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&duration=2500&pause=600&color=7C3AED&center=true&vCenter=true&width=950&lines=Hi+👋,+I'm+Abubakar+Abdulrazak;Professional+Full-Stack+Developer;Frontend+%7C+Backend+%7C+Automation;Turning+Ideas+Into+Scalable+Web+Solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=26&duration=2500&pause=700&color=7C3AED&center=true&vCenter=true&width=900&lines=AI+Engineer+%26+Automation+Specialist;Full-Stack+Developer+(Frontend+%7C+Backend);Building+Intelligent+and+Scalable+Systems;Nice+to+meet+you!+🤝" />
 </p>
 
 <p align="center">
@@ -9,22 +11,29 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
+I am a **results-oriented AI & Automation Engineer** and **Full-Stack Developer** with strong experience in designing, building, and automating **intelligent, scalable, and high-performance systems**.
 
-I am a **professional Full-Stack Developer** focused on building **scalable, high-performance, and user-centric web applications**.  
-I combine **clean frontend design**, **robust backend logic**, and **automation workflows** to deliver real business value.
+I combine **AI-driven automation**, **modern frontend experiences**, and **robust backend architectures** to solve real-world problems efficiently.
 
-- 💼 **Role:** Full-Stack Developer  
+- 🤖 **Role:** AI Engineer & Automation Specialist  
+- 💻 **Stack:** Frontend • Backend • APIs • Workflow Automation  
 - 🌍 **Location:** Nigeria  
-- ⚙️ **Specialties:** Web Apps • APIs • Automation (n8n)  
-- 🤝 **Open to:** Remote roles & collaborations  
-- 🚀 **Driven by:** Impact, quality, and continuous growth  
+- 🤝 **Open to:** Remote roles, collaborations & innovative teams  
 
 ---
 
-## 🚀 Tech Stack (Animated Icons)
+## 🧠 Core Expertise
+
+- 🤖 **AI & Automation:** Workflow automation (n8n), AI-powered integrations, intelligent systems  
+- 🌐 **Frontend Engineering:** Responsive, accessible, user-focused interfaces  
+- ⚙️ **Backend Engineering:** APIs, authentication, databases, scalable server logic  
+- 🔗 **System Integration:** Third-party APIs, webhooks, micro-services  
+
+---
+
+## 🚀 Technology Stack (Animated)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,php,python,django,nodejs,mysql,git,github,vscode,postman,figma&perline=7" />
@@ -32,7 +41,7 @@ I combine **clean frontend design**, **robust backend logic**, and **automation 
 
 ---
 
-## 📊 Live GitHub Activity (Auto-Updating)
+## 📊 Live GitHub Metrics (Auto-Updating)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lilsadiq8345&show_icons=true&theme=radical&hide_border=true&rank_icon=github"/>
@@ -48,12 +57,12 @@ I combine **clean frontend design**, **robust backend logic**, and **automation 
 
 ---
 
-## 🧩 Featured Projects (Professional Focus)
+## 🧩 Selected Projects
 
+- 🔹 **AI & Automation Workflows** — Intelligent automations using APIs & webhooks  
 - 🔹 **rem-farms** — Agro-investment & marketplace platform  
-- 🔹 **QR2TECH** — Business website with backend & form automation  
-- 🔹 **Online Queue Management System** — Automated appointment system  
-- 🔹 **n8n Automations** — Webhooks, APIs & workflow orchestration  
+- 🔹 **QR2TECH** — Business website with backend & contact automation  
+- 🔹 **Online Queue Management System** — Smart appointment scheduling system  
 
 ---
 
@@ -61,19 +70,27 @@ I combine **clean frontend design**, **robust backend logic**, and **automation 
 
 <p align="center">
   <a href="mailto:abubakarsa242@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Professional-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/abubakarabdulrazak/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="tel:+2348102553433">
-    <img src="https://img.shields.io/badge/Phone-Contact-7C3AED?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Phone-7C3AED?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
 ---
 
+## ⚡ Professional Philosophy
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</p>
 
 ---
 
-
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer"/>
+</p>
